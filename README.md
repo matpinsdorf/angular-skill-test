@@ -21,6 +21,6 @@ a Aplicação deve conter apenas toolbar superior **FIXO** com o logo e nome da 
 
 exemplo de projeto:
 
-![TLV test project](https://media.giphy.com/media/natWas6BdvIEdDhe4f/giphy.gif)
+![TLV test project](https://i.ibb.co/nbNpcPP/angular-skills.png)
 
 
