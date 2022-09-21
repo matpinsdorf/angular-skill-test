@@ -5,8 +5,8 @@ O Objetivo desse teste é avaliar as habilidades do candidato em front-end (Angu
 
 # Instruções 
 
- 1. Crie uma branche com o seu nome a partir da master
- 2. Clone o repositório na sua maquina e selecione a branche criada no passo 1.
+ 1. Crie uma branch com o seu nome a partir da master
+ 2. Clone o repositório na sua maquina e selecione a branch criada no passo 1.
  
 ## Objetivos da Aplicação
 
