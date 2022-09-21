@@ -21,10 +21,10 @@ a Aplicação deve conter apenas toolbar superior **FIXO** com o logo e nome da 
 
 - para a rota utilize o nome dados "/dados":   
 
- visual da página é de suma Importancia!, capriche no css!
-
-exemplo de projeto (home , /dados):
+### Exemplo de projeto (home , /dados):
 
 ![TLV test project](https://i.ibb.co/nbNpcPP/angular-skills.png)
 
 
+
+ > visual da página é de suma Importancia!, capriche no css!
