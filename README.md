@@ -19,6 +19,7 @@ a Aplicação deve fazer o consumo de uma API publica e gratuita de escolha do c
 a Aplicação deve conter apenas toolbar superior **FIXO** com o logo e nome da empresa, e no body um botão que troque a rota, utilzando o `router-outlet` [Referencia](https://angular.io/guide/router-tutorial-toh), a estilização (css/scss) e por sua conta!
 
 exemplo de projeto:
+
 ![TLV test project](https://media.giphy.com/media/natWas6BdvIEdDhe4f/giphy.gif)
 
 
