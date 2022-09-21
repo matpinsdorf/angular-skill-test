@@ -1,3 +1,4 @@
+
 # Repositório de Testes de Habilidades em Angular!
 
 
@@ -12,9 +13,12 @@ O Objetivo desse teste é avaliar as habilidades do candidato em front-end (Angu
 
 a Aplicação deve fazer o consumo de uma API publica e gratuita de escolha do candidatos ([Lista de API's](https://github.com/public-apis/public-apis)), e exibir os resultados em uma estrutura do Tipo (Grid/Table), para isso utilizar os componentes da biblioteca Material [material.angular.io](https://material.angular.io/guide/getting-started)
 
+ - para recuperar os dados da api utilizar o service:  `api-service.ts`e o método `getdados()`:  
+
 ## Estrutura da Pagina
 a Aplicação deve conter apenas toolbar superior **FIXO** com o logo e nome da empresa, e no body um botão que troque a rota, utilzando o `router-outlet` [Referencia](https://angular.io/guide/router-tutorial-toh), a estilização (css/scss) e por sua conta!
 
 exemplo de projeto:
 ![TLV test project](https://media.giphy.com/media/natWas6BdvIEdDhe4f/giphy.gif)
+
 
